@@ -2,9 +2,9 @@
 #### ❣ Panamanian/ Belgian, living in Sweden~
 I've always enjoyed creating things — I love colorful visuals and the process behind designing them.
 I got a Bachelor in **Marketing & Graphic Design**, but then found my second passion in cooking when moving to Europe.
-After 10 years of working at and managing kitchens, I'm now back chasing a career in design through Web Development (Front End).
+After 10 years of working at and managing kitchens, I'm now back chasing a career in design through Web Development (Frontend).
 
-- 🔨 I'm currently working on my **Front End skills**: HTML, CSS and JavaScript (for now~).
+- 🔨 I'm currently working on my **Frontend skills**: HTML, CSS and JavaScript (for now~).
 - 🌈👩‍💻 This Fall I'm joining **Technigo's coding bootcamp**: a remote Frontend bootcamp to learn how to build web projects and digital products with code.
 - Find me on **IG <a href="https://www.instagram.com/vanevalentine/" target="_blank">@vanevalentine</a>** where I often post about my coding progress (...and lots of food! 🍽🥗)
 
