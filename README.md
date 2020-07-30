@@ -1,7 +1,7 @@
 ### Hola! 🙋‍♀️, I'm Vanessa 🎈
 #### ❣ Panamanian/ Belgian, living in Sweden~
 I've always enjoyed creating things — I love colorful visuals and the process behind designing them.
-I got a Bachelor in **Marketing & Graphic Design**, but then found my second passion in cooking after moving to Europe.
+I got a Bachelor in **Marketing & Graphic Design**, but then found my second passion in cooking when moving to Europe.
 After 10 years of working at and managing kitchens, I'm now back chasing a career in design through Web Development (Front End).
 
 - 🔨 I'm currently working on my **Front End skills**: HTML, CSS and JavaScript (for now~).
