@@ -7,6 +7,7 @@ After 10 years of working at and managing kitchens, I'm now back chasing a caree
 - 🔨 I'm currently working on my **Frontend skills**: HTML, CSS and JavaScript (for now~).
 - 🌈👩‍💻 This Fall I'm joining **Technigo's coding bootcamp**: a remote Frontend bootcamp to learn how to build web projects and digital products with code.
 - Find me on **IG <a href="https://www.instagram.com/vanevalentine/" target="_blank">@vanevalentine</a>** where I often post about my coding progress (...and lots of food! 🍽🥗)
+- I like sharing my practice coding projects at: **<a href="https://vanessasue27.github.io/" target="_blank">vanessasue27.github.io</a>** 😎
 
 <!--
 **VanessaSue27/VanessaSue27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
