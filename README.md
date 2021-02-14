@@ -1,9 +1,9 @@
 ### Hola! 🙋‍♀️, I'm Vanessa 🎈
 #### ❣ Panamanian/ Belgian, living in Sweden~
-**Fullstack Developer in the works.** Took my first steps into Web Development with Frontend and quickly discovered my preference for programming and cracking problems. I like my code functional and structured and I see myself digging deeper into more coding tools so I can contribute both with Front and Backend knowledge.
+**Fullstack Web Developer.** Took my first steps into Web Development with Frontend and quickly discovered my preference for programming and cracking problems. I like my code functional and structured and I see myself digging deeper into more coding tools so I can contribute both with Front and Backend knowledge.
 
-- 🔨 I'm currently working on my **Web Development skills**: HTML, CSS, JavaScript, React, Node.js (for now~ | Currently learning Java).
-- 🌈👩‍💻 This Fall I've joined the **Technigo Coding bootcamp**: a remote Frontend bootcamp to learn how to build web projects and digital products with code.
+- 🔨 **Love coding with**: HTML, CSS, JavaScript, React, Node.js (for now~ | Currently learning Java).
+- 🌈👩‍💻 **Technigo Coding bootcamp** Fall 2020 Alumni: a Frontend bootcamp to learn how to build web projects and digital products with code.
 - I got a Bachelor in **Marketing & Advertising with focus on Graphic Design**
 - I'm a **career changer** 💪 After 11 years working as a **Chef and Kitchen Manager**, I'm looking to reconnect with my creative side.
 - Let's connect ✌ Here's my **LinkedIn: <a href="https://www.linkedin.com/in/vanessa-sue-smith/" target="_blank">Vanessa on LinkedIn</a>** 
