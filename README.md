@@ -2,7 +2,7 @@
 #### ❣ Panamanian/ Belgian, living in Sweden~
 **Full Stack Developer** - Took my first steps into Web Development with Frontend and quickly discovered my preference for logic and functionality implementation. A problem-solver at heart. I see myself digging deeper into more programming tools so I can contribute both with Front and Backend knowledge.
 
-- **JavaScript developer 🤓 My favorite stack includes**: HTML, CSS, React, React Redux, Node.js, Express and MongoDB.
+- **TypeScript / JavaScript developer 🤓 My favorite stack includes**: HTML, CSS, React, React Redux, Node.js, Express and MongoDB.
 - 👩‍💻 Graduated the **Technigo Coding bootcamp** - Fall 2020 and I'm currently working as a Consultant at **Axakon** 🤸‍♀️
 - I got a Bachelor in **Marketing & Advertising with a focus on Graphic Design**
 - I'm a **career changer**: Worked for 11 years in the Restaurant industry before going into tech 👩‍🍳💪
